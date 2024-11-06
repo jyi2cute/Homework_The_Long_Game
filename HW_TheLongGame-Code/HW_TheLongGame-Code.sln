@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_TheLongGame-Code", "HW_TheLongGame-Code\HW_TheLongGame-Code.csproj", "{336E4D4A-B7A0-4FDA-A7FA-781A0E270372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336E4D4A-B7A0-4FDA-A7FA-781A0E270372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336E4D4A-B7A0-4FDA-A7FA-781A0E270372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336E4D4A-B7A0-4FDA-A7FA-781A0E270372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336E4D4A-B7A0-4FDA-A7FA-781A0E270372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD32A46-D8B0-4CF3-BA5C-9C53A790224E}
+	EndGlobalSection
+EndGlobal
